@@ -127,7 +127,7 @@ public class Ders11 {
         */
          
          //SWİTCH CASE YAPISI
-         /*
+         /* 8
          Scanner scan = new Scanner(System.in);
          
          int sayi = scan.nextInt();
@@ -154,6 +154,9 @@ public class Ders11 {
                 System.out.println("geçersiz sayı");
                 */
                 
+                
+        }
+    
                 //ATM ÖRNEĞİ
                 Scanner scan = new Scanner(System.in);                
                 int bakiye = 1000;
@@ -190,7 +193,6 @@ public class Ders11 {
                             
             default:
                 System.out.println("Geçersiz işlem!");
-        }
                 
                
                 
