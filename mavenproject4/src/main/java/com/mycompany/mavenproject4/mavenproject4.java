@@ -197,8 +197,8 @@ public class mavenproject4 {
                 System.out.println("Geçersiz işlem!");
             */
     
-             //WHILE DÖNGÜLERİ 9
-             /*
+             //WHILE DÖNGÜLERİ 
+             /* 9
              int i = 0;
              
              while(i < 10){
@@ -206,7 +206,7 @@ public class mavenproject4 {
              i++;
              }
              System.out.println("Döngü bitti" +" "+ i);
-            */
+            
              
              Scanner scan = new Scanner(System.in);
              
@@ -214,14 +214,40 @@ public class mavenproject4 {
              
              int sayi = scan.nextInt();
              
+             int faktoriyel =1;
+             
+             while (sayi >= 1) {
+                 System.out.println("faktoriyel :" + faktoriyel + "sayi : " + sayi);
+                 faktoriyel = faktoriyel *sayi; 
+                 
+                 
+                 sayi--;
+             }
+             System.out.println("Faktoriyel : " + faktoriyel);
+             */
+               
+             //Do-While döngüleri 10 //en az bir defa çalışır
+             
+             // Kullanıcının girdiği sayıların rakamlarının
+             // toplam değerini ekrana yazdıran uyg
+             /*
+             Scanner scan = new Scanner(System.in);
+             
+             int sayi = scan.nextInt();
+             int toplam =0;
+             do {
+             toplam += sayi %10;
+             
+             sayi = sayi / 10;
+             
+             System.out.println("Toplam = " + toplam + "sayi = " +sayi);
+             }
+             while (sayi>0);
+             System.out.println("Toplam = " + toplam);
+             */
              
              
-             
-             
-             
-             
-             
-                        
+                      
           }
         }
          
