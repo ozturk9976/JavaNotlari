@@ -153,6 +153,7 @@ public class mavenproject4 {
             default:
                
                 System.out.println("geçersiz sayı");
+                ----------------------------------------------------------------
                 */
                 
                 
@@ -195,6 +196,7 @@ public class mavenproject4 {
                             
             default:
                 System.out.println("Geçersiz işlem!");
+                ----------------------------------------------------------------
             */
     
              //WHILE DÖNGÜLERİ 
@@ -224,6 +226,7 @@ public class mavenproject4 {
                  sayi--;
              }
              System.out.println("Faktoriyel : " + faktoriyel);
+             -------------------------------------------------------------------
              */
                
              //Do-While döngüleri 10 //en az bir defa çalışır
@@ -244,6 +247,7 @@ public class mavenproject4 {
              }
              while (sayi>0);
              System.out.println("Toplam = " + toplam);
+             -------------------------------------------------------------------
              */
              
              
