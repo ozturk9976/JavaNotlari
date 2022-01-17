@@ -1,11 +1,11 @@
-package com.mycompany.mavenproject2;
+package com.mycompany.mavenproject4;
 import java.util.Scanner;
 
 /**
  *
  * @author Hamza
  */
-public class Ders11 {
+public class mavenproject4 {
     public static void main (String[] args ){
         
         //1 JAVADA DEĞİŞKEN TİPLERİ
@@ -158,6 +158,7 @@ public class Ders11 {
         }
     
                 //ATM ÖRNEĞİ
+                /*
                 Scanner scan = new Scanner(System.in);                
                 int bakiye = 1000;
                 int islem;
@@ -193,7 +194,9 @@ public class Ders11 {
                             
             default:
                 System.out.println("Geçersiz işlem!");
-                
+            */
+             //While döngüleri
+             
                
                 
         }
