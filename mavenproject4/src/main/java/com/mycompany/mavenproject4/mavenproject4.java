@@ -1,4 +1,5 @@
 package com.mycompany.mavenproject4;
+import com.sun.source.tree.WhileLoopTree;
 import java.util.Scanner;
 
 /**
@@ -155,7 +156,7 @@ public class mavenproject4 {
                 */
                 
                 
-        }
+        
     
                 //ATM ÖRNEĞİ
                 /*
@@ -195,9 +196,32 @@ public class mavenproject4 {
             default:
                 System.out.println("Geçersiz işlem!");
             */
-             //While döngüleri
+    
+             //WHILE DÖNGÜLERİ 9
+             /*
+             int i = 0;
              
-               
-                
+             while(i < 10){
+             System.out.println("java");
+             i++;
+             }
+             System.out.println("Döngü bitti" +" "+ i);
+            */
+             
+             Scanner scan = new Scanner(System.in);
+             
+             System.out.println("Sayıyı giriniz");
+             
+             int sayi = scan.nextInt();
+             
+             
+             
+             
+             
+             
+             
+             
+                        
+          }
         }
          
