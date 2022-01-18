@@ -267,12 +267,49 @@ public class mavenproject4 {
                      
                  }
             }
+             -------------------------------------------------------------------
             */
              
              // Break ve continue 12
              
+             // Break -> koşula bakmadan döngüyü sona erdirir
+             
+             // Continue -> Altındaki işlemleri yapmadan döngünün en başına gider
+             /*
+             while(true){
+             Scanner scan = new Scanner(System.in);
+             System.out.println("Karakter giriniz");
+             String s;
+             s = scan.nextLine();
              
              
+             if(s.equals("q")){
+                System.out.println("Sistemden çıkılıyor!");
+                break;
+              }
+            System.out.println("Karakter : " + s);
+            
+          }
+           
+             
+             int i = 0;
+             
+            while (i < 10) {            
+                
+                if (i == 4 || i ==7) {
+                    i++;
+                    continue; //buradan döngünün en başına döndü if i atladı
+                }
+                
+            System.out.println("i : " + i);
+            i++;
+
+            
+        }
+             -------------------------------------------------------------------
+            */
+             
+             // Metotlar(Fonksiyonlar) 13
              
              
            
