@@ -52,8 +52,8 @@ public class mavenproject4 {
         ------------------------------------------------------------------------
         */
         
-        //ATAMA,ARTTIRMA VE AZALTMA OPERATÖRLERİ
-        /* 5
+        //ATAMA,ARTTIRMA VE AZALTMA OPERATÖRLERİ 5
+        /* 
         int a =10;
         
         a=a+1;  //veya a+=3; veya a*=5 veya a++; veya a--; eğer --a; olursa azaltma işlemi bir 
@@ -127,8 +127,8 @@ public class mavenproject4 {
         -----------------------------------------------------------------------
         */
          
-         //SWİTCH CASE YAPISI
-         /* 8
+         //SWİTCH CASE YAPISI 8
+         /* 
          Scanner scan = new Scanner(System.in);
          
          int sayi = scan.nextInt();
@@ -199,8 +199,8 @@ public class mavenproject4 {
              -------------------------------------------------------------------
             */
     
-             //WHILE DÖNGÜLERİ 
-             /* 9
+             //WHILE DÖNGÜLERİ 9
+             /* 
              int i = 0;
              
              while(i < 10){
@@ -229,7 +229,8 @@ public class mavenproject4 {
              -------------------------------------------------------------------
              */
                
-             //Do-While döngüleri 10 //en az bir defa çalışır
+             //Do-While döngüleri 10 
+             //en az bir defa çalışır
              
              // Kullanıcının girdiği sayıların rakamlarının
              // toplam değerini ekrana yazdıran uyg
@@ -253,12 +254,30 @@ public class mavenproject4 {
              //For döngüleri 11
              
             
-             
-             for (int i = 0, j= 0; i < 10 && j<5; i++,j++) {
+             /*
+             for (int i = 0, j= 0; i < 10 || j<5; i++,j++) {
                  
-            System.out.println("i =  " + i + "j =  " + j);
+            System.out.println("i = " + i +" "+ "j = " + j);
         }
+        
              
+             for (int i = 0; i < 10; i++) {
+                 for (int j = 0; j < 10; j++) {
+                     System.out.println("i = " + i + "j = " + j);
+                     
+                 }
+            }
+            */
+             
+             // Break ve continue 12
+             
+             
+             
+             
+             
+           
+
+     
              
              
                       
