@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author Hamza
  */
 public class mavenproject4 {
+    
     public static void main (String[] args ){
         
         //1 JAVADA DEĞİŞKEN TİPLERİ
@@ -308,14 +309,7 @@ public class mavenproject4 {
         }
              -------------------------------------------------------------------
             */
-             
-             // Metotlar(Fonksiyonlar) 13
-             
-             
-           
-
-     
-             
+                                 
              
                       
           }
