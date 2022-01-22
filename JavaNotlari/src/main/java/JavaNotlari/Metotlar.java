@@ -13,10 +13,14 @@ import java.util.Scanner;
 public class Metotlar {
     public static void main(String[] args){
     
-    faktoriyel();
+        toplama(4, 2, 1);
     
     }
     
+    
+    
+    
+    /*
     public static void faktoriyel(){
     Scanner scan = new Scanner(System.in);
     System.out.println("Lütfen bir sayı giriniz");
@@ -32,7 +36,14 @@ public class Metotlar {
             
    
     }
+    */
     
+    public static void toplama(int a, int b,int c){
+        
+        System.out.println("Toplamları " + (a+b+c));
+    }
+    
+     
     
         
 }
