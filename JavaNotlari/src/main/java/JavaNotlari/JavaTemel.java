@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject4;
+package JavaNotlari;
 import com.sun.source.tree.WhileLoopTree;
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author Hamza
  */
-public class mavenproject4 {
+public class JavaTemel {
     
     public static void main (String[] args ){
         
